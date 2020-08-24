@@ -1,10 +1,8 @@
 
-<p align="center">
-  <h3 align="center">WordPress Top 100 WooCommerce Plugins</h3>
+<h1 align="center">WordPress Top 100 WooCommerce Plugins</h1>
 
-  <p align="center">
-    Browse the top 100 plugins from the WordPress repository.
-  </p>
+<p align="center">
+  Browse the top 100 plugins from the WordPress repository.
 </p>
 
 <hr />
