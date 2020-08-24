@@ -1,5 +1,5 @@
 
-<h1 align="center">WordPress Top 100 WooCommerce Plugins</h1>
+<h1 align="center">WordPress Top WooCommerce Plugins</h1>
 
 <p align="center">
   Browse the top 100 plugins from the WordPress repository.
@@ -216,5 +216,5 @@ Adds Russian localization &amp; special Tools in WooCommerce. — <i>Last update
 ----
 
 <p align="right">
-  <i>Last updated 24 Aug 2020 11:08:30.</i>
+  <i>Last updated 24 Aug 2020 02:08:51.</i>
 </p>
